@@ -23,7 +23,7 @@ namespace _3HW
                 i_Operater = 0;
             }
         }
-
+        
         public NumInfo o_Num = new NumInfo();
         public int i_Num = 0;
 
