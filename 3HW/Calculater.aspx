@@ -8,7 +8,7 @@
     <title>Calculater</title>
     <style type="text/css">
         .ControlTextPosition {
-            padding: 2%;
+            padding: 2%; 
             text-align:right
         }
     </style>
