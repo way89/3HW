@@ -23,7 +23,7 @@ namespace _3HW
                 i_Operater = 0;
             }
         }
-        
+
         public NumInfo o_Num = new NumInfo();
         public int i_Num = 0;
 
@@ -447,7 +447,7 @@ namespace _3HW
             i_Num = Convert.ToInt32(lb_Result.Text);
             mt_SetInfo();
         }
-
+        
         private void mt_SetInfo()
         {
             int i_Ind = (o_Num.i_BoundCount - 1);
@@ -455,5 +455,5 @@ namespace _3HW
             ViewState["PreivousInfo"] = o_Num;
         }
 
-    }
+    } 
 }
